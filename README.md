@@ -15,3 +15,25 @@ in the [accounts](ACCOUNT.md) file.
 
 Shadowcoins are convertible to US dollars at a rate of 1000:1.
 
+### Assignments
+
+See [Assignment 0](assignment0) for details on how to get set up, how to
+create code gists, etc.
+
+Submit assignments by sending an email to Shadowy Corporation, Inc, at the
+the address that was first used to contact you. Your sumission emails
+should look like the following example:
+
+```
+Subject: Assignment 17
+
+Gist:
+https://gist.github.com/shadowycorporation/ad4fcdff96da89fde559886966bdda97
+
+Answer:
+42
+
+Account:
+1234567890
+```
+

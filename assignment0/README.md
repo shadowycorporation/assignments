@@ -40,8 +40,11 @@ At the end, ensure that you are able to:
 Go to [Github](https://github.com) and create a new account. You will use
 Github to submit your assignments. In particular, you will use "gists" to
 paste and save your code.
-[Go here to create a gist](https://gist.github.com/), write or paste some
-code, and then click `Create public gist`. To submit your assignment to
+[Go here to create a gist](https://gist.github.com/).
+Give the gist a name, such as `assignment0.py` (note: the `.py` extension
+indicates that this is a Python code file).
+Now write or paste some code, and then click
+`Create public gist`. To submit your assignment to
 Shadowy Corporation, Inc, simply copy the gist link once it's saved, and
 paste it into the submission email.
 
