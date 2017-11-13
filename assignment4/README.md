@@ -95,7 +95,7 @@ ascii_value = ord('z')  # Value = 122
 ascii_value += 1        # Value = 123
 if ascii_value > 122:   # Perform correction
     ascii_value -= 26
-print(chr(ascii_value)) # Prints 'z'
+print(chr(ascii_value)) # Prints 'a'
 ```
 
 Our Master Hacker started this function for you, but didn't finish. Fill it out to make it easy to
