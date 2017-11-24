@@ -1,6 +1,6 @@
 # Assignment 5
 
-#### Value: 200 shadowcoins
+#### Value: 100 shadowcoins
 
 ### Gaming the system
 
